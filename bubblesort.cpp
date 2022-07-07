@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
-    int n,i,j,beg=0,min,temp,min_pos;
+    int n,i,j,temp;
     cin>>n;
     int arr[n];
     cout<<"Enter "<<n<<"elements of array";
